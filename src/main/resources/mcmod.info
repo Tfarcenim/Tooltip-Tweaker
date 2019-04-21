@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rttweaker",
+  "name": "Random Things Tweaker",
+  "description": "Random Things Tweaker.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecnim"],
+  "credits": "e",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
